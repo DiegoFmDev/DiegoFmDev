@@ -2,12 +2,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
- I'm a Computer Science and Engineering Student  
+I'm a new Eengineering Student ready to learn new technologies.
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I have a streak of +700 days on Duolingo.
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas -
+- 🚀 Turn ideas into projects that solve real problems.
 
 ---
 
